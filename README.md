@@ -5,7 +5,7 @@ This is a repo pulled out from BuckleScript's [Node API](https://bucklescript.gi
 ## Installation
 
 ```sh
-npm install --save reasonml-community/bs-node
+npm install --save idkjs/bs-node
 ```
 
 Then add `bs-node` to `bs-dependencies` in your `bsconfig.json`:
