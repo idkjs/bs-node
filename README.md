@@ -6,7 +6,8 @@
 
 ~~Note: This repo is not actively maintained, and seems unlikely to be upstreamed into bucklescript proper. It appears that the community has largely settled on creating bindings for individual Node APIs, rather than utilizing a large, monolithic set of bindings.~~
 
-# updated version of above to use while updated old reasonml code, like [reason-http-experiments/tree/28f86b671177d8c9fe5df43537c2a02403ec39c2)](https://github.com/MeridianPartners/reason-http-experiments/tree/28f86b671177d8c9fe5df43537c2a02403ec39c2)
+# updated version of above to use while updated old reasonml code, like [reason-http-experiments](https://github.com/MeridianPartners/reason-http-experiments/tree/28f86b671177d8c9fe5df43537c2a02403ec39c2)
+
 ## Installation
 
 ```sh
